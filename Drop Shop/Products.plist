@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tshirt007</key>
+	<dict>
+		<key>price</key>
+		<real>5.95</real>
+		<key>quantity</key>
+		<integer>19</integer>
+	</dict>
+	<key>tshirtOverslept</key>
+	<dict>
+		<key>price</key>
+		<real>7.99</real>
+		<key>quantity</key>
+		<integer>69</integer>
+	</dict>
+	<key>tshirtAmerican</key>
+	<dict>
+		<key>price</key>
+		<real>6.95</real>
+		<key>quantity</key>
+		<integer>5</integer>
+	</dict>
+	<key>tshirtKing</key>
+	<dict>
+		<key>price</key>
+		<real>5.95</real>
+		<key>quantity</key>
+		<integer>14</integer>
+	</dict>
+	<key>tshirtLife</key>
+	<dict>
+		<key>price</key>
+		<real>5.5</real>
+		<key>quantity</key>
+		<integer>42</integer>
+	</dict>
+	<key>tshirtScreenshot</key>
+	<dict>
+		<key>price</key>
+		<real>6.95</real>
+		<key>quantity</key>
+		<integer>33</integer>
+	</dict>
+	<key>tshirtSilence</key>
+	<dict>
+		<key>price</key>
+		<real>7.5</real>
+		<key>quantity</key>
+		<integer>27</integer>
+	</dict>
+	<key>tshirtTheDayAfter</key>
+	<dict>
+		<key>price</key>
+		<real>9.949999999999999</real>
+		<key>quantity</key>
+		<integer>49</integer>
+	</dict>
+</dict>
+</plist>
